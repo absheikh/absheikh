@@ -1,6 +1,6 @@
 ![MasterHead](https://www.programmingassignment.net/wp-content/themes/base/images/blog/first-screen.png)
 <h1 align="center">Hi 👋, I'm Aminu Babayo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absheikh&label=Profile%20views&color=0e75b6&style=flat" alt="absheikh" /> </p>
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/absheikhone" target="blank"><img src="https://img.shields.io/twitter/follow/absheikhone?logo=twitter&style=for-the-badge" alt="absheikhone" /></a> </p>
 
-- 🔭 I’m currently working on **NAFCONS**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **react**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **absheikhone@gmail.com**
 
