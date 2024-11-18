@@ -1,5 +1,5 @@
 
-Hello! I'm Aminu Babayo Shehu, a passionate software engineer with a broad range of experience in various web development and app development technologies. My specialties include HTML, CSS, JavaScript, TypeScript, React JS, Next JS, React Native, Flutter, Dart, Material UI, Styled Components, Bootstrap, Axios, PHP, CodeIgniter, Redux, Node.js, Java, spring boot, Kotlin, Ktor, Docker, Pebble, Thymeleaf, Postgres, MongoDB, MySQL, and Rest APIs.
+Hello! I'm Aminu Babayo Shehu, a passionate software engineer with a broad range of experience in various web development and app development technologies. My specialties include HTML, CSS, JavaScript, TypeScript, React JS, Next JS, React Native, Flutter, Dart, Material UI, Styled Components, Bootstrap, Axios, PHP, Laravel, Redux, Node.js, Java, Springboot, Kotlin, Ktor, Python, FastAPI, Docker, Pebble, Thymeleaf, Postgres, MongoDB, MySQL, and Rest APIs.
 
 I am committed to delivering high-quality software solutions that meet the needs of businesses and individuals. My experience spans across various industries, including finance, healthcare, education, and e-commerce. I have worked on projects of varying sizes, from small-scale websites to large-scale enterprise applications.
 
